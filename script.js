@@ -3,5 +3,5 @@ function getFormvalue() {
     let fName = document.getElementById('one');
     let lName = document.getElementById('two');
 
-    alert(`${fName.value()} ${lName.value()}`)
+    alert(`${fName.value} ${lName.value}`);
 }
